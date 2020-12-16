@@ -1,2 +1,2 @@
 # IMC
-Calcular o peso e aparecer gifs!
+Calcular o peso e aparece gifs!
